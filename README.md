@@ -1,0 +1,2 @@
+# Tipsy
+Tip calculating app. 
